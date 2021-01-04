@@ -7,7 +7,7 @@ from replit import db
 from keep_alive import keep_alive
 
 
-#connection to our discord server
+#connection to our discord
 client = discord.Client()
 
 sad_words = ['sad', 'lonely', 'heartbroken', 'gloomy', 						'disappointed', 'hopeless', 'grieved', 'unhappy',
